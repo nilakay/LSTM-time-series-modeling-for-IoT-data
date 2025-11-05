@@ -10,5 +10,6 @@ Full notebook: [LSTM Time Series IoT](https://www.kaggle.com/code/nilakay/lstm-t
 
 See other models:
 https://www.kaggle.com/code/nilakay/regression-time-series-iot
+
 https://www.kaggle.com/code/nilakay/multistep-univariate-time-series-iot
 
